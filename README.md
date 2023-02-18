@@ -17,3 +17,10 @@ I like listening to music, playing games, and jogging.
 If you'd like to know more about me, feel free to visit and connect with me via [Linkedin](https://www.linkedin.com/in/rezha-taufik-7b2b21223/). I look forward to your connection invite!
 
 Have a great day!
+
+<p align="left">
+<a href="https://github.com/RezhaTaufik">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RezhaTaufik&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RezhaTaufik&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
