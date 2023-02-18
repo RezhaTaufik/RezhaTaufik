@@ -14,6 +14,6 @@ I am also a Bangkit Academy 2023 cohort learning in their [Cloud Computing Path]
 
 I like listening to music, playing games, and jogging.
 
-If you'd like to know more about me, feel free to visit and connect with me via [Linkedin](https://www.linkedin.com/in/rezha-taufik-7b2b21223/). I look forward to your connection invite!.
+If you'd like to know more about me, feel free to visit and connect with me via [Linkedin](https://www.linkedin.com/in/rezha-taufik-7b2b21223/). I look forward to your connection invite!
 
 Have a great day!
