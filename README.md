@@ -18,7 +18,7 @@ If you'd like to know more about me, feel free to visit and connect with me via 
 
 Have a great day!
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/RezhaTaufik">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RezhaTaufik&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RezhaTaufik&layout=compact&langs_count=8&theme=algolia"/>
