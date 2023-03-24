@@ -6,7 +6,7 @@ I am a college student in Universitas Sumatera Utara majoring in [Computer Scien
 
 I am also a laboratory assistant at [IKLC USU](www.iklc.or.id).
 
-As a lab. assistant i have taught a couple of materials, such as Database, Basic Programming, and, Algorithm & Programming
+As a lab. assistant i have taught a couple of materials, such as Database, Basic Programming, Algorithm & Programming, Computer Networking, and Artificial Intelligence
 
 Currently, my main interests are in Cloud Computing and Machine Learning.
 
